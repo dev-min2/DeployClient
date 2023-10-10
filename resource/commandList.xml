@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commandList>
+    <command>1</command> <!-- Server Start -->
+	<command>2</command> <!-- Server Stop -->
+	<command>3</command> <!-- Server Update -->
+	<command>4</command> <!-- Server Update -->
+</commandList>
